@@ -1,1 +1,1 @@
-fix: typo in documentation\nstyle: format code with prettier\n
+fix: typo in documentation\nstyle: format code with prettier\nMerge pull request #12 from feature/auth\n
