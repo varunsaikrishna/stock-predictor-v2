@@ -1,1 +1,1 @@
-fix: typo in documentation\n
+fix: typo in documentation\nstyle: format code with prettier\n
